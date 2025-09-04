@@ -1,7 +1,4 @@
-Bonne question Phil 👍  
-Tu veux **envoyer mes réponses (ou une partie)** sur ton dépôt GitHub — c’est tout à fait faisable, mais il faut passer par une **manipulation manuelle ou semi-automatisée**, car je ne peux pas directement pousser du contenu sur GitHub depuis ici. Je vais te montrer **trois méthodes simples** pour le faire efficacement.
 
----
 
 ## 🧠 Méthode 1 : Copier-coller dans un fichier local, puis push sur GitHub
 
