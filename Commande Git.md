@@ -1,4 +1,4 @@
-Oui Phil 👍  
+
 Tu peux **modifier le titre d’un fichier, d’un commit, ou même le nom du dépôt GitHub** si tu as fait une faute de frappe. Voici comment corriger chaque type d’erreur, avec des vidéos qui te montrent les manipulations dans VS Code et sur GitHub.
 
 ---
